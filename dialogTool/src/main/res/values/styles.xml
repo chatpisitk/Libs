@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="SimpleSelectorStyle">
+    <item name="titleTextSize">20sp</item>
+    <item name="titleTextColor">#ff000000</item>
+    <item name="titleTextBackground">#ffffffff</item>
+    <item name="elementTextSize">20sp</item>
+    <item name="elementTextColor">#ff000000</item>
+    <item name="elementTextBackground">#ffffffff</item>
+  </style> 
+</resources>

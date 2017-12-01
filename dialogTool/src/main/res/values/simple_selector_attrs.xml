@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="SimpleSelectorAdapter" parent="ListViewSelectorAdapter">    
+    <attr name="elementTextSize" format="reference|dimension"/>
+    <attr name="elementTextColor" format="reference|color"/>
+    <attr name="elementTextFont" format="enum"/>
+    <attr name="elementTextBackground" format="reference|color"/>
+  </declare-styleable>
+</resources>

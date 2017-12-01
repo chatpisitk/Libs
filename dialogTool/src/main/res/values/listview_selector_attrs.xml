@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="ListViewSelectorAdapter">
+    <attr name="titleTextSize" format="reference|dimension"/>
+    <attr name="titleTextColor" format="reference|color"/>
+    <attr name="titleTextFont" format="enum"/>
+    <attr name="titleTextBackground" format="reference|color"/>
+  </declare-styleable>
+</resources>

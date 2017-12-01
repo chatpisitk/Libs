@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.rokejits.android.tool.camera.CameraView xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+  
+  <SurfaceView 
+    android:id="@+id/camera_view_layout_surfaceview_preview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+  <com.rokejits.android.tool.camera.FocusFrame 
+    android:id="@+id/camera_view_layout_focusframe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/> 
+  <!--  ImageView 
+    android:id="@+id/capture_activity_layout_imageview_shutter"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/shutter_button"
+    android:layout_alignParentRight="true"
+    android:layout_centerVertical="true"/-->
+    
+
+</com.rokejits.android.tool.camera.CameraView>
